@@ -20,6 +20,9 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Astro on Stack Overflow](https://stackoverflow.com/questions/tagged/astro)
 
 ## BlogPosts
+- [Introducing Astro: Ship less JavaScript](https://astro.build/blog/introducing-astro) - Astro Introductory official blog post.
+- [Keeping it simple with Astro](https://navillus.dev/blog/keeping-it-simple-with-astro) - Blog post about how Navillus migrated to Astro.
+- [Astro](https://css-tricks.com/astro/) - Astro post on CSS Tricks.
 - [Astro: Meta framework of future web development](https://dev.to/perfect7m/astro-meta-framework-of-future-web-development-5ej0)
 - [Islands Architecture](https://jasonformat.com/islands-architecture/) - Islands Architecture by Jason Miller.
 - [The Great Divide](https://css-tricks.com/the-great-divide/) - Post on CSSTricks by Chris Coyier.
@@ -34,6 +37,7 @@ Coming soon
 
 ## Videos
 - [Astro: A New Architecture for the Modern Web](https://www.youtube.com/watch?v=mgkwZqVkrwo) - Speakeasy JS episode with Fred K. Schott.
+- [Ship Less JavaScript with Astro](https://www.learnwithjason.dev/ship-less-javascript-with-astro) - Learn with Jason episode on Astro.
 
 
 ## Podcasts
